@@ -34,3 +34,22 @@ This is the first version of the project, created to practice C++ fundamentals a
 The main goal of this project is to practice C++ fundamentals by creating a simple shopping system.
 
 This project is also the first version of a bigger idea that I plan to improve and expand in future versions.
+
+## 🚀 Future Improvements
+
+Planned features for future versions:
+
+- Product IDs
+- Stock management
+- Add/remove products from cart
+- Product quantities
+- Search system
+- User accounts
+- Login and registration
+- Better checkout system
+- File handling
+- Saving customer orders
+- Better user interface
+- More products and categories
+- Object-Oriented Programming (OOP)
+- Data Structures
