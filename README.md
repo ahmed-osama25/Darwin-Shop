@@ -28,3 +28,9 @@ This is the first version of the project, created to practice C++ fundamentals a
 - Switch statements
 - Basic input/output
 - Basic shopping cart system
+
+## 🎯 Project Goal
+
+The main goal of this project is to practice C++ fundamentals by creating a simple shopping system.
+
+This project is also the first version of a bigger idea that I plan to improve and expand in future versions.
