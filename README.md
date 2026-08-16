@@ -16,3 +16,15 @@ This is the first version of the project, created to practice C++ fundamentals a
 - 💰 Calculate the total price
 - 🧾 Display the customer's order at checkout
 - ❌ Exit the program
+
+## 🛠️ Technologies
+
+- C++
+- Structs
+- Arrays
+- Strings
+- Functions
+- Loops
+- Switch statements
+- Basic input/output
+- Basic shopping cart system
