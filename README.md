@@ -53,3 +53,11 @@ Planned features for future versions:
 - More products and categories
 - Object-Oriented Programming (OOP)
 - Data Structures
+
+## 📂 Project Structure
+
+```text
+Darwin-Shop/
+│
+├── main.cpp
+└── README.md
